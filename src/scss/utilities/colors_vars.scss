@@ -36,9 +36,9 @@ $grays: map-merge(
 }
 
 // PRIMARY COLORS DEFINITION //
-$primary-h: 210 !default;
+$primary-h: 220 !default;
 $primary-s: 100 !default;
-$primary-b: 80 !default;
+$primary-b: 30 !default;
 
 $primary: hsb($primary-h, $primary-s, $primary-b) !default;
 
